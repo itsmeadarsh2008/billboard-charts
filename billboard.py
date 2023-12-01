@@ -25,7 +25,7 @@ _NEXT_DATE_SELECTOR = "span.fa-chevron-right"
 _ENTRY_LIST_SELECTOR = "div.chart-list-item"
 _ENTRY_TITLE_ATTR = "data-title"
 _ENTRY_ARTIST_ATTR = "data-artist"
-_ENTRY_IMAGE_SELECTOR = "img.chart-list-item__image"
+_ENTRY_IMAGE_SELECTOR = "c-lazy-image__img lrv-u-background-color-grey-lightest lrv-u-width-100p lrv-u-display-block lrv-u-height-auto"
 _ENTRY_RANK_ATTR = "data-rank"
 
 
